@@ -1,5 +1,7 @@
 ### Hi there, I'm Reza Karbalaei 👋
 
+![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=karbalaei&show_icons=true&theme=radical)
+
 **Senior Bioinformatics Scientist @ Johns Hopkins Medicine**
 
 I specialize in **Multi-omics** and **Single-cell Genomics**, leveraging machine learning and statistical modeling to uncover the genetic mechanisms of neuropsychiatric disorders.
