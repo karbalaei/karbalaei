@@ -1,6 +1,6 @@
-### Hi there, I'm Reza Karbalaei 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Reza%20Karbalaei&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Senior%20Bioinformatics%20Scientist&descAlignY=55&descSize=25&fontColor=ffffff)
 
-![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=karbalaei&show_icons=true&theme=radical)
+### Hi there, I'm Reza Karbalaei 👋
 
 **Senior Bioinformatics Scientist @ Johns Hopkins Medicine**
 
