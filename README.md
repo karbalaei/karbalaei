@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there, I'm Reza Karbalaei 👋
 
-<!--
-**karbalaei/karbalaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Bioinformatics Scientist @ Johns Hopkins Medicine**
 
-Here are some ideas to get you started:
+I specialize in **Multi-omics** and **Single-cell Genomics**, leveraging machine learning and statistical modeling to uncover the genetic mechanisms of neuropsychiatric disorders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages and Tools
+
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🧬 Bioinformatics Expertise
+
+* **Genomics:** GWAS, Fine-mapping, Variant Calling (GATK)
+* **Transcriptomics:** Bulk RNA-seq, snRNA-seq (Seurat/Scanpy), Spatial Transcriptomics
+* **Infrastructure:** AWS, HPC (SLURM), Docker, Nextflow
+
+---
+
+### 🔭 Current Work
+* Investigating **Lithium exposure mechanisms** in Bipolar Disorder using multi-omics integration.
+* Developing reproducible pipelines for large-scale **GWAS** meta-analyses.
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezakarbalaei)
