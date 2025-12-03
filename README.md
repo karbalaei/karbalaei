@@ -43,7 +43,7 @@ I specialize in **Multi-omics** and **Single-cell Genomics**, leveraging machine
 
 ---
 
-![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezakarbalaei&show_icons=true&theme=radical)
+![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=karbalaei&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezakarbalaei)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karbalaei)
