@@ -45,7 +45,7 @@ I specialize in **Multi-omics** and **Single-cell Genomics**, leveraging machine
 ---
 
 ### 📚 Publications & Impact
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([YOUR_GOOGLE_SCHOLAR_URL_HERE](https://scholar.google.com/citations?user=AqhpUY4AAAAJ&hl=en))
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=AqhpUY4AAAAJ&hl=en)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karbalaei)
