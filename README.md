@@ -36,7 +36,8 @@ I specialize in **Multi-omics** and **Single-cell Genomics**, leveraging machine
 ---
 
 ### 🔭 Current Research & Projects
-* **Lithium Mechanism Study:** Investigating gene expression changes in Bipolar Disorder patients using snRNA-seq.
+* **Lithium Mechanism Study:** Investigating gene expression changes in Bipolar Disorder patients using  Bulk RNA-seq.
+* **BP vs. MDD:** Examination mechanism differences in BP patients versus MDD patients.
 * **GWAS Pipelines:** Developing reproducible Nextflow pipelines for large-scale variant association.
 * **Reproducibility:** Establishing open-science standards for psychiatric genomics.
 
