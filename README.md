@@ -12,7 +12,8 @@ I specialize in **Multi-omics** and **Single-cell Genomics**, leveraging machine
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23003B57?style=for-the-badge&logoColor=white)
+#![SQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -43,7 +44,8 @@ I specialize in **Multi-omics** and **Single-cell Genomics**, leveraging machine
 
 ---
 
-![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=karbalaei&show_icons=true&theme=radical)
+### 📚 Publications & Impact
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](YOUR_GOOGLE_SCHOLAR_URL_HERE)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karbalaei)
