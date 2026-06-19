@@ -41,7 +41,7 @@ I specialize in **Multi-Omics Integration**, **Spatial Transcriptomics**, and **
 
 * **[MDD vs. BP Transcriptomic Pipeline](https://github.com/karbalaei/MDD_BP):** A high-resolution computational workflow examining mechanistic and splicing differences in BP vs. MDD across the human Amygdala and sgACC.
   * *Features: qSV-adjusted Differential Expression, WGCNA, Fusion-TWAS, IsoTWAS, and Leafcutter Splicing Analysis.*
-* **Lithium Mechanism Study:** Investigating longitudinal gene expression dynamics and treatment response in Bipolar Disorder cohorts using large-scale Bulk and snRNA-seq.
+* **[Lithium Mechanism Study](https://github.com/karbalaei/Lithium-exposure):** Investigating longitudinal gene expression dynamics and treatment response in Bipolar Disorder cohorts using large-scale Bulk RNA-seq.
 * **Genomic Pipelines:** Developing cloud-scalable, reproducible Nextflow pipelines for high-throughput variant calling and transcriptome-wide association mapping.
 
 ---
