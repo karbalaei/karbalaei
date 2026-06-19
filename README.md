@@ -4,7 +4,7 @@
 
 I am a **Senior Bioinformatics Scientist** at **Johns Hopkins Medicine** with over 9 years of experience in **Genomic Data Science**. 
 
-I specialize in **Multi-omics** and **Single-cell Genomics**, leveraging machine learning and statistical modeling to uncover the genetic mechanisms of neuropsychiatric disorders (Bipolar Disorder, Schizophrenia, MDD).
+I specialize in **Multi-Omics Integration**, **Spatial Transcriptomics**, and **Single-Cell/Nucleus Genomics (sc/snRNA-seq)**, leveraging deep learning and statistical modeling to uncover the molecular mechanisms of complex neuropsychiatric disorders (Bipolar Disorder, Schizophrenia, MDD).
 
 ---
 
@@ -13,7 +13,7 @@ I specialize in **Multi-omics** and **Single-cell Genomics**, leveraging machine
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23003B57?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -21,26 +21,28 @@ I specialize in **Multi-omics** and **Single-cell Genomics**, leveraging machine
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/nextflow-%232C2D72.svg?style=for-the-badge&logo=nextflow&logoColor=white)
 
-### 🧬 Bioinformatics & ML Stack
+### 🧬 Bioinformatics, Single-Cell & Deep Learning Stack
 
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scanpy](https://img.shields.io/badge/Python-Scanpy-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Seurat](https://img.shields.io/badge/R-Seurat-ff69b4?style=for-the-badge&logo=r&logoColor=white)
+![scvi-tools](https://img.shields.io/badge/Python-scvi--tools-orange?style=for-the-badge)
+![scGPT](https://img.shields.io/badge/ML-scGPT-blueviolet?style=for-the-badge)
+![Squidpy](https://img.shields.io/badge/Spatial-Squidpy-darkgreen?style=for-the-badge)
+![MOFA+](https://img.shields.io/badge/Integration-MOFA%2B-blue?style=for-the-badge)
 
 ![DESeq2](https://img.shields.io/badge/Bioconductor-DESeq2-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Seurat](https://img.shields.io/badge/R-Seurat-ff69b4?style=for-the-badge&logo=r&logoColor=white)
-![Scanpy](https://img.shields.io/badge/Python-Scanpy-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GATK](https://img.shields.io/badge/GATK-Variant_Calling-blue?style=for-the-badge)
-
-![snRNA-seq](https://img.shields.io/badge/Genomics-snRNA--seq-success?style=for-the-badge)
-![Multi-omics](https://img.shields.io/badge/Integration-Multi--omics-blueviolet?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ---
 
-### 🔭 Current Research & Projects
-* **Lithium Mechanism Study:** Investigating gene expression changes in Bipolar Disorder patients using  Bulk RNA-seq.
-* **BP vs. MDD:** Examination mechanism differences in BP patients versus MDD patients.
-* **GWAS Pipelines:** Developing reproducible Nextflow pipelines for large-scale variant association.
-* **Reproducibility:** Establishing open-science standards for psychiatric genomics.
+### 🔭 Current Research & Key Repositories
+
+* **[MDD vs. BP Transcriptomic Pipeline](https://github.com/karbalaei/MDD_BP):** A high-resolution computational workflow examining mechanistic and splicing differences in BP vs. MDD across the human Amygdala and sgACC.
+  * *Features: qSV-adjusted Differential Expression, WGCNA, Fusion-TWAS, IsoTWAS, and Leafcutter Splicing Analysis.*
+* **Lithium Mechanism Study:** Investigating longitudinal gene expression dynamics and treatment response in Bipolar Disorder cohorts using large-scale Bulk and snRNA-seq.
+* **Genomic Pipelines:** Developing cloud-scalable, reproducible Nextflow pipelines for high-throughput variant calling and transcriptome-wide association mapping.
 
 ---
 
