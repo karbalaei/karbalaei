@@ -4,11 +4,11 @@
 
 I am a **Senior Bioinformatics Scientist** at **Johns Hopkins Medicine** with over 9 years of experience in **Genomic Data Science**. 
 
-I specialize in **Multi-Omics Integration**, **Spatial Transcriptomics**, and **Single-Cell/Nucleus Genomics (sc/snRNA-seq)**, leveraging deep learning and statistical modeling to uncover the molecular mechanisms of complex neuropsychiatric disorders (Bipolar Disorder, Schizophrenia, MDD).
+I specialize in **Multi-Omics Integration**, **Spatial Transcriptomics**, and **Single-Cell/Nucleus Genomics (sc/snRNA-seq)**, leveraging machine learning, deep learning, and robust statistical frameworks to uncover the genetic and molecular architectures of complex neuropsychiatric disorders (Bipolar Disorder, Schizophrenia, MDD).
 
 ---
 
-### 🛠 Languages & Infrastructure
+### 🛠️ Languages & Infrastructure
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -41,8 +41,10 @@ I specialize in **Multi-Omics Integration**, **Spatial Transcriptomics**, and **
 
 * **[MDD vs. BP Transcriptomic Pipeline](https://github.com/karbalaei/MDD_BP):** A high-resolution computational workflow examining mechanistic and splicing differences in BP vs. MDD across the human Amygdala and sgACC.
   * *Features: qSV-adjusted Differential Expression, WGCNA, Fusion-TWAS, IsoTWAS, and Leafcutter Splicing Analysis.*
-* **[Lithium Mechanism Study](https://github.com/karbalaei/Lithium-exposure):** Investigating longitudinal gene expression dynamics and treatment response in Bipolar Disorder cohorts using large-scale Bulk RNA-seq.
-* **Genomic Pipelines:** Developing cloud-scalable, reproducible Nextflow pipelines for high-throughput variant calling and transcriptome-wide association mapping.
+* **[Lithium Mechanism Study](https://github.com/karbalaei/Lithium-exposure):** Investigating longitudinal gene expression dynamics, structural alterations, and neuroprotective treatment response in Bipolar Disorder cohorts using large-scale Bulk and snRNA-seq.
+* **[Genome-Wide Association Studies (GWAS) Pipeline](https://github.com/karbalaei/GWAS-pipeline):** A publication-grade, end-to-end framework for running massive variant-phenotype association mappings across multi-diagnostic cohorts (Controls, MDD, and BP).
+  * *Features: Sample/Variant Quality Control (PLINK/GCTA), HRC Genotype Imputation (Michigan Imputation Server/Eagle), Covariate-Regressed Linear/Logistic and LMM Association Testing (RVTESTS), Inverse-Variance Meta-Analysis (METAL), and Post-GWAS Inflation Diagnostics (Manhattan, Q-Q, and Normalized Lambda Testing).*
+* **Genomic Pipelines:** Developing cloud-scalable, reproducible Nextflow and SLURM pipelines for high-throughput variant calling and transcriptome-wide association mapping.
 
 ---
 
